@@ -1,0 +1,23 @@
+{
+    "name": "october/cmsextapidemo-plugin",
+    "type": "october-plugin",
+    "description": "October CMS Extensibility API Demo",
+    "keywords": ["october", "cms", "demo", "plugin", "api"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Bobkov",
+            "email": "aleksey.bobkov@gmail.com",
+            "role": "Co-founder"
+        },
+        {
+            "name": "Samuel Georges",
+            "email": "daftspunky@gmail.com",
+            "role": "Co-founder"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    }
+}
